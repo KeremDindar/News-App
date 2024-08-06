@@ -12,6 +12,6 @@ News-App, NewsAPI kullanarak güncel haberleri görüntüleyen bir SwiftUI uygul
 - NewsAPI
 - Combine
 - URLSession
-- 
+  
 # API Anahtarı
 Bu proje, NewsAPI'yi kullanmaktadır. Kendi API anahtarınızı almak için NewsAPI sayfasını ziyaret edebilirsiniz.
